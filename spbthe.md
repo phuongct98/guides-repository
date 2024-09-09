@@ -22,7 +22,7 @@ Dùng để sử dụng cho các ngành hàng có sản phẩm với các thuộ
 -   Người dùng chọn thêm thuộc tính - thêm thuộc tính
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfDU3kkipmubcxxgIKDF9R0TOcQJf4Cdp-zt8PZKck8s9p75wDgFWW2Nf1sPY9xJKaaSJzcTAN-LFYF3mizGpZ4I3AFJDjOADQtoxshKX0qRSleUBz_gUZfWb8w0jHIpQKmPK1ZVl0cJu-x56aucrTnPgKP?key=esX5mz3obwVg8UEkYbBudQ)
 -   Sau khi thêm thuộc tính, người dùng nhập phân loại biến thể vào bên phải của thuộc tính và nhấn enter
-*![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf3sdmDe3nzhwZIB5Yz3B0zVgpSOQJXFkSznu-2_WPTzUOW1pwoafoYQV_DHANcgQi-u1FTYF1gY_x03sgYYqHbTZvbjm_ej3nniEDg4f9s46VnPf03gZDPDD8_HBexSplfzdvQPfHsZEH-Pvijrk1X9jxa?key=esX5mz3obwVg8UEkYbBudQ)
+*![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf3sdmDe3nzhwZIB5Yz3B0zVgpSOQJXFkSznu-2_WPTzUOW1pwoafoYQV_DHANcgQi-u1FTYF1gY_x03sgYYqHbTZvbjm_ej3nniEDg4f9s46VnPf03gZDPDD8_HBexSplfzdvQPfHsZEH-Pvijrk1X9jxa?key=esX5mz3obwVg8UEkYbBudQ)  
 **Bước 4**: Bật theo dõi tồn kho ( nếu có) và nhập số lượng sản phẩm tương ứng của từng biến thể
 >** Lưu ý: ** 
 >**- Số lượng sản phẩm của biến thể sẽ được cộng tổng và hiển thị tại số lượng tồn kho - chỉ có thể sửa số lượng tại sản phẩm biến thể**  
