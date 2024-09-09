@@ -25,7 +25,7 @@ Dùng để sử dụng cho các ngành hàng có sản phẩm với các thuộ
 *![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf3sdmDe3nzhwZIB5Yz3B0zVgpSOQJXFkSznu-2_WPTzUOW1pwoafoYQV_DHANcgQi-u1FTYF1gY_x03sgYYqHbTZvbjm_ej3nniEDg4f9s46VnPf03gZDPDD8_HBexSplfzdvQPfHsZEH-Pvijrk1X9jxa?key=esX5mz3obwVg8UEkYbBudQ)
 **Bước 4**: Bật theo dõi tồn kho ( nếu có) và nhập số lượng sản phẩm tương ứng của từng biến thể
 >** Lưu ý: ** 
->**- Số lượng sản phẩm của biến thể sẽ được cộng tổng và hiển thị tại số lượng tồn kho - chỉ có thể sửa số lượng tại sản phẩm biến thể**
+>**- Số lượng sản phẩm của biến thể sẽ được cộng tổng và hiển thị tại số lượng tồn kho - chỉ có thể sửa số lượng tại sản phẩm biến thể**  
 >**- Nếu có đơn vị tính, số lượng tồn kho bằng tổng số lượng của đơn vị tính chính.**
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeljWUJr1dXoOqm3WUmP4wYKBsIwJcjsSatfX4YQ2jeLDq7aBC-DWWKZk3t52UVjSdfot6nBtpmJljjfG2QKI-43Zqww58eXrMk_InQC1V7ceOwa7o_Pi0KV_o2ARQJp0N__8vuRr0NR6FXqTHqqVnMY7Pr?key=esX5mz3obwVg8UEkYbBudQ)
 ## **Bán hàng**
