@@ -12,6 +12,7 @@ Dùng để sử dụng cho các ngành hàng có sản phẩm với các thuộ
 ## Tạo sản phẩm có biến thể
 
 **Bước 1**:  Truy cập vào hệ thống phần mềm EasyPos
+
 **Bước 2**: Tại trang chủ, nhấn chọn sản phẩm - Thêm sản phẩm
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe_a5dO1OKIYQidrLiVsIKdFN5HOV11eInrtFIKB7SL-cuJe6_7mQoWlrdcXtW3KdRAJboZ20hohPNLpWIaipET-DVWKM9hTL-1msgMyFMPDDUUcvFVLFh0kHSoTqjCjDGnX75CV68xZHBeUcmrCxymYIpo?key=esX5mz3obwVg8UEkYbBudQ)
 -   Người dùng nhập thông tin tạo sản phẩm như bình thường 
