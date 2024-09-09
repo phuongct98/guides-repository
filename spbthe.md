@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Sản phẩm biến thể
 
 ## 1. Mục đích
